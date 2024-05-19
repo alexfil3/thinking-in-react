@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thinking-in-react/static/css/main.9de49d44.css",
+    "main.js": "/thinking-in-react/static/js/main.ca9d952a.js",
+    "index.html": "/thinking-in-react/index.html",
+    "main.9de49d44.css.map": "/thinking-in-react/static/css/main.9de49d44.css.map",
+    "main.ca9d952a.js.map": "/thinking-in-react/static/js/main.ca9d952a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9de49d44.css",
+    "static/js/main.ca9d952a.js"
+  ]
+}
